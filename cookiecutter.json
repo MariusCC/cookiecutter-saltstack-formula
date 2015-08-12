@@ -3,7 +3,7 @@
 	"formula_short_description": "SaltStack Formula Boilerplate contains all the boilerplate you need to create a SaltStack Formula.",
 	"full_name": "Marius Cristian Constantinescu",
 	"github_username": "mariuscc",
-	"repo_name": "{{ cookiecutter.project_name|lower|replace(' ', '-') }}",
+	"repo_name": "{{ cookiecutter.formula_name|lower|replace(' ', '-') }}",
 	"release_date": "2015-08-12",
 	"year": "2015",
 	"version": "0.1.1"
